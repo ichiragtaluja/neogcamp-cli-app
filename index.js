@@ -8,7 +8,6 @@ console.log("This Quiz is about Geography")
 
 console.log("________________________________")
 
-
 var score = 0
 
 questions = [{
@@ -30,6 +29,7 @@ questions = [{
   
   question: "Mount everest is on the border of Nepal and ?? ",
   answer: "Tibet"}]
+
 
 function checkAnswer (question, answer) {
   userAnswer = readlineSync.question(question)
@@ -54,7 +54,5 @@ function playGame () {
   console.log("Your final score is ", score)
 
 }
-
-
 
 playGame();
