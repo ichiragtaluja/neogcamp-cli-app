@@ -15,7 +15,7 @@ A multiple choice quiz game to test your knowledge of Geography
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ichiragtaluja/neogcamp-cli-app/blob/main/CLI%20app%20demo.png)
+![App Screenshot](https://github.com/ichiragtaluja/neogcamp-cli-app//CLI app demo.png)
 
 
 ## Tech Stack
